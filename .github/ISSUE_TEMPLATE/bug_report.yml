@@ -1,4 +1,4 @@
-name: 🐛Bug Report description: File a bug report here title: "[BUG]: " labels: ["bug"] assignees: ["nklasio"] body:
+name: 🐛Bug Report description\: File a bug report here title: "[BUG]: " labels: ["bug"] assignees: ["nklasio"] body:
   - type: markdown
     attributes:
       value: |
